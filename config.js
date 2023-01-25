@@ -6,9 +6,9 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['923468736075']  
+global.mods = ['923468736075'] 
+global.prems = ['923468736075']
 /*Nomor Owner & payment*/
 global.nameowner = 'Tio'
 global.numberowner = '6281395861695' 
@@ -17,7 +17,7 @@ global.dana = '6281395861695'
 global.pulsa = '6281395861695'
 global.gopay = '6281395861695'
 /*Nama Bot & Grouplink*/
-global.namebot = 'RTXZY-MD'
+global.namebot = 'Faheem'
 global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
 global.web = 'https://github.com/BOTCAHX'
 global.instagram = 'https://instagram.com/prm2.0'
